@@ -1,6 +1,6 @@
-![IBM_logo svg](https://user-images.githubusercontent.com/17713495/189551322-d727a4c7-283f-4296-80a6-108304837a84.jpeg)
+![ibm copy](https://user-images.githubusercontent.com/17713495/189561053-988014a2-3043-4261-83cf-7897be0d4dc9.png)
 
-### Hi there 👋
+### About me
 - I'm a full stack engineer at [IBM](https://www.ibm.com/us-en/)
 - I worked on IBM Cloud Private, which provides on-premise Kubernetes clusters for enterprises
 - I have experience with Javascript, React, Node, Golang, ETL, Docker, and Kubernetes
